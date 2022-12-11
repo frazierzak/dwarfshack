@@ -1,0 +1,258 @@
+* {
+        margin: 0;
+        padding: 0;
+        font-family: Georgia, Arial, Serif;
+}
+.clear {
+        clear: both;
+}
+body {
+        background: black;
+}
+a img {
+        border-style: none;
+}
+#wrapper {
+        width: 1027px;
+        margin: 0 auto;
+}
+#header {
+        height: 148px;
+}
+#nav {
+        height: 25px;
+}
+#nav li {
+        list-style: none;
+        float: left;
+        height: 25px;
+}
+#nav li a {
+        display: block;
+        height: 25px;
+}
+#nav li ul {
+        position: absolute;
+        width: 10em;
+        left: -999em;
+}
+#nav li:hover ul, #nav li.sfhover ul {
+        left: auto;
+}
+li#intro a {
+        background: url('images/intro_but.png');
+        width: 87px;
+}
+li#intro a:hover, li#intro a.active {
+        background-position: 0 100%;
+}
+li#home a {
+        background: url('images/home_but.png');
+        width: 87px;
+}
+#home a:hover {
+        background-position: 0 100%;
+}
+li#rules a {
+        background: url('images/rules_but.png');
+        width: 87px;
+}
+li#rules a:hover, li#rules a.active {
+        background-position: 0 100%;
+}
+li#year1 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 0px;
+}
+li#year1 a:hover, li#year1 a.active {
+        background-position: 100% 0px;
+}
+li#year2 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 -25px;
+}
+li#year2 a:hover, li#year2 a.active {
+        background-position: 100% -25px;
+}
+li#year3 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 -50px;
+}
+li#year3 a:hover, li#year3 a.active {
+        background-position: 100% -50px;
+}
+li#year4 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 -75px;
+}
+li#year4 a:hover, li#year4 a.active {
+        background-position: 100% -75px;
+}
+li#year5 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 -100px;
+}
+li#year5 a:hover, li#year5 a.active {
+        background-position: 100% -100px;
+}
+li#year6 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 -125px;
+}
+li#year6 a:hover, li#year6 a.active {
+        background-position: 100% -125px;
+}
+li#year7 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 -150px;
+}
+li#year7 a:hover, li#year7 a.active {
+        background-position: 100% -150px;
+}
+li#year8 a {
+        background-image: url('images/year_nav.png');
+        width: 87px;
+        background-position: 0 -175px;
+}
+li#year8 a:hover, li#year8 a.active {
+        background-position: 100% -175px;
+}
+li#nav_spacer {
+        width: 414px;
+        background: url('images/nav_spacer.png');
+}
+li#resource_but a {
+        width: 133px;
+        background: url('images/resource_but.png') 0 0;
+}
+li#resource_but a:hover, li#resource_but a.active {
+        background-position: 0 100%;
+}
+li#lucien_but a {
+        width: 219px;
+        background: url('images/lucien_but.png') 0 0;
+}
+li#lucien_but a:hover, li#lucien_but a.active {
+        background-position: 0 100%;
+}
+#content {
+        width: 1027px;
+        height: 769px;
+        margin: 0 auto;
+        background: url('images/content_bg.jpg') no-repeat top center;
+        color: #000;
+        font-size: 16px;
+        font-family: 'Lustria', serif;
+        line-height: 24px;
+}
+#content h1 {
+        font-family: 'Glass Antiqua', cursive;
+        margin: 0 0 15px 0;
+}
+#content h2 {
+        font-family: 'Glass Antiqua', cursive;
+        margin: 0 0 15px 0;
+}
+#content h3 {
+        font-family: 'Glass Antiqua', cursive;
+        margin: 0 0 15px 0;
+}
+#content p {
+        margin: 0 0 15px 0;
+}
+#content a img {
+        border: 1px solid #331c07;
+}
+#content a img:hover {
+        border: 1px solid #fff;
+}
+img.right {
+        float: right;
+        margin: 3px 0 2px 5px;
+		width: 175px;
+}
+img.left {
+        float: left;
+        margin: 3px 10px 2px 0;
+		width: 175px;
+}
+img.center{
+		width: 175px;
+}
+img.medcenter{
+		width: 260px;
+}
+img.bigcenter{
+		width: 360px;
+}
+.thumb-right{
+	float: right;
+	padding: 1px;
+    margin: 0 0 0px 4px;
+	width: 35%;
+	font-size: 11px;
+	text-align: center;
+	line-height: 15px;
+	background: #331c07;
+	color: #fff;
+}
+.thumb-right img{
+	width: 100%;
+}
+#content li {
+        margin: 0 0 3px 13px;
+}
+#content a {
+        color: #461f07;
+        font-weight: bold;
+}
+#content a:hover {
+        color: #fff;
+        text-decoration: none;
+}
+#content a:hover img, #content a:active img {
+        border: 1px solid white;
+}
+#cont_left {
+        padding: 35px 0 0 35px;
+        width: 440px;
+        float: left;
+}
+#cont_right {
+        padding: 35px 60px 0 0;
+        width: 430px;
+        float: right;
+}
+.bot_nav {
+        margin: 0 0 0 0;
+        height: 50px;
+}
+.prev_but a {
+        width: 87px;
+        height: 25px;
+        float: left;
+        margin: 0 0 0 22px;
+        background-image: url('images/arrows.png');
+        background-position: 0 0;
+}
+.prev_but a:hover {
+        background-position: 0 100%;
+}
+.next_but a {
+        width: 87px;
+        height: 25px;
+        float: right;
+        margin: 0 22px 0 0;
+        background: url('images/arrows.png');
+        background-position: -89px 0;
+}
+.next_but a:hover {
+        background-position: -89px 100%;
+}

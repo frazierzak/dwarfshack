@@ -1,0 +1,17 @@
+<?php include 'header.php'; ?>
+        <div id="cont_left">
+			<h2><a href="tut1.php"><- Page 1</a></h2>
+            <h1 style="text-align:center;">Part I</h1>
+			<h2 style="text-align:center;">The game and necessary add-ons</h2>
+			<p><a href="images/tut_img/lnp_thumb.jpg" rel="lightbox" title="Lazy Newb Pack Main Menu"><img  width="25%" class="right" src="images/tut_img/lnp_thumb.jpg"/></a><span style="font-family: 'Glass Antiqua', cursive; font-size: 48px;">B</span>y far the easiest way to get started is to download the <a href="http://www.bay12forums.com/smf/index.php?topic=59026.0" target="_blank">Lazy Newb Pack (LNP)</a>.  This is a kit that comes with the latest version of DF, a few tilesets, an amazing utility called Dwarf Therapist, and a few other goodies.  Unpack and save to your favorite hard drive (or the desktop). </p>
+			<p>These options on the main screen will change game settings.  All of these can be modded via the .init files or the raws, this GUI just makes it much easier to do so.</p>
+			<p>The <strong>Economy</strong> is a feature whereby dwarves will (eventually) begin to have to pay for things like lodging.  A poor dwarf will not be able to afford an expensive bedroom, for example, and an elaborate set of polished walls, high quality furniture, and extra features will be too expensive.  A <a href="http://dwarffortresswiki.org/index.php/Nobles">Noble</a>, however, will demand the best and won’t put up with living in a dormitory.  The economy is a large headache and I usually choose to disable it.  Note that the latest version is poorly documented in this regard on the wiki, probably it is being updated.</p>
+        </div><!--cont_left-->
+        <div id="cont_right">
+			<p><a href="http://dwarffortresswiki.org/index.php/Temperature" target="_blank"><strong>Temperature</strong></a> is just that.  Embarking in freezing climates, you will see all topside water frozen solid into ice all year round, cold and temperate climates see more seasonal freezing.  Likewise, scorching or hot embark locations will evaporate lakes during the summer, and plants will wither.  It’s generally advisable to leave this turned on however, as it also affects game physics, and if it’s turned off then wonky things can happen to your dwarven engineering projects.</p>
+			<p><a href="http://dwarffortresswiki.org/index.php/Weather" target="_blank"><strong>Weather</a></strong> is the weather!  Rain, snow, and so on.  Rain is useful in DF, since it refills ponds and will wash away blood, vomit, and (I think) creature goo that may be harmful.  Weather can sometimes slow your framerate down, but other than that there’s no real benefit to disabling it.</p>
+			<p><a href="http://dwarffortresswiki.org/index.php/Cave_in" target="_blank"><strong>Cave ins.</a></strong>  This happens if a construction, or rock mass, becomes completely disconnected from X,Y, and Z axes.  It’s usually something that happens immediately after embark to a cavern far beneath you, as a result of odd embark generation.  It’s nothing you can help, but most of the time I choose to reload and choose a new embark location.  It can also be purposefully engineered.</p>
+			<p><strong>Invaders</strong> is a catch-all term for baddies coming into your fort (like goblins) to try and kill everyone.  What fun would it be if you turned this off?</p>
+			<h2 style="text-align: right;"><a href="tut3.php"><strong>Page 3 -></strong></a></h2>
+        </div><!--cont_right-->
+   <?php include 'footer.php'; ?>

@@ -1,0 +1,15 @@
+<?php include 'header.php'; ?>
+        <div id="cont_left">
+            <h2 style="text-align: right; line-height: 0; text-align: left;"><a href="year1b.php"><strong><- Page 2</strong></a></h2>
+			<p><a href="images/suc_img/removingslopesJPG_7d9bnb0hch.jpg" title=""><img class="right" src="images/suc_img/removingslopesJPG_7d9bnb0hch.jpg"/></a>Out front, so there are no more surprises dropping in I removed the slopes in front of the fort.</p><div class="clear"></div>
+			<p><a href="images/suc_img/oopseJPG_8tggpbh05i.jpg" title=""><img class="left" src="images/suc_img/oopseJPG_8tggpbh05i.jpg"/></a>I forgot to build a refuse pile and dump the giant wolverine body and now miasma is in the front of the fort entrance. No matter, it'll clear out shortly once the dead body is moved away.</p><div class="clear"></div>
+			<p>Summer is now here, and we need a trade depot! I don't care too much about the elven caravans, but our friends back home might want to come for a visit and we need a place for them to show their new wares and for us to show them our fine selection of stone crafts we have been working on. Truly our feats are legendary!</p>
+			<p align="center"><a href="images/suc_img/summertradedepotJPG_08n49ef6vl.jpg" title=""><img class="center" src="images/suc_img/summertradedepotJPG_08n49ef6vl.jpg"/></a></p>
+        </div><!--cont_left-->
+        <div id="cont_right">
+            <p><a href="images/suc_img/giantthripsJPG_kshczjsqf0.jpg" title=""><img class="right" src="images/suc_img/giantthripsJPG_kshczjsqf0.jpg"/></a>Craziness struck when Gylis was out chopping wood and gathering plants, a flock of Giant Thrips appears beside him! I do not know what they are but I know they have wings, three sets of feet and a head/thorax/and abdomen. What kind of place did we settle in!</p>
+			<p align="center"><a href="images/suc_img/giantthrips2JPG_yiv1py9gmp.jpg" title=""><img class="bigcenter" src="images/suc_img/giantthrips2JPG_yiv1py9gmp.jpg"/></a></p>
+			<p><a href="images/suc_img/pastureJPG_oe5wzt4l5q.jpg" title=""><img class="right" src="images/suc_img/pastureJPG_oe5wzt4l5q.jpg"/></a>There were two animals that came along for the ride, we didn't embark with them but they followed us anyway, one was a Yak, and the other was a Two-Humped Camel. I don't remember traveling through deserts to get here but whatever, we got them now. I put their pasture on the eastern hill top. You can also see some steps in this photo, that's the 2nd entrance into the fort. I know it's dangerous to do this but I needed the wood on this hill top and I didn't want to travel outside so I made these to get to it quickly! We can always build walls around this area for defence if the next overseer wants.</p>
+			<h2 style="padding: 0; margin: 0; text-align: right; line-height: 0;"><a href="year1d.php"><strong>Page 4 -></strong></a></h2>
+        </div><!--cont_right-->
+<?php include 'footer.php'; ?>

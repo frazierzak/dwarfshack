@@ -1,0 +1,14 @@
+<?php include 'header.php'; ?>
+    <div id="cont_left">
+			<h2><a href="tut16.php"><- Page 16</a></h2>
+			<p>Go down to Z=4 and cut out new up/down stairs as before.  Then create a small hallway and a 7x7 room, this is going to be our first WORKSHOP room.  After it’s done, go down one more level to Z-5, and build another hallway and another 7x7 room, this will be our (temporary) dorm.  While the miners are doing this, head back up to Z-4 and our workshop room, we’re going to “b”uild our first item!</p>	<p>Hit “b”uild, “w”orkshop.  This menu gives us the shops that dwarves will toil at to produce items, cook, butcher animals, polish gems, everything!  We want a Carpenter’s Workshop.  All shops are 3x3, so if we place one shop in each corner of our room, we will have a tile separating each shop.  Note that the green X’s representing the shop placement are different shades… the bright squares are physical room which will be taken up by the shop, the darker ones will be passable by a dwarf.  Pick a corner (probably northeast is best for this shop) and hit enter.</p>
+			<p>Now it will ask what you want to build the workshop out of.  We can use wood for this one, or if you’ve hit stone already, you will see available stones which are probably lying around on Z-5 cluttering up the place.  Use stone if you have some, simply because wood is more precious.</p>
+			<p>Our Carpenter will come by soon and construct the workshop!</p>
+		</div><!--cont_left-->
+		<div id="cont_right">
+			<p>Now we want to give a task to that workshop.  We want to make ten wooden beds.  Hit “q” and arrow over near the shop and “a”dd a new task.  Construct a “b”ed.  Add another task, make another bed, and queue these up until you have ten (the maximum).</p>
+			<p>Our Carpenter will grab some wood from the pile on Z-3, bring it to the shop, make a bed, and then place the bed in the furniture pile!  After all ten are made he will go back to hauling, or be idle.<p>
+			<p><strong>HERE IS A VERY USEFUL TRICK</strong>.  Go to Z-5 and look at our dorm room, most likely it is cluttered with stone, including perhaps some laying in the stairwell.  We don’t like clutter and it slows down our dwarves, although technically we can place furniture on top of it… let’s move this stuff to someplace useful, like the center tile in our workshop room.  We COULD just make a 1x1 pile, but it would only hold one stone.  Instead, we are going to create a ZONE with “I” and make it a single tile right in the center of the room.</p>
+			<h2 style="text-align: right;"><a href="tut18.php"><strong>Page 18 -></strong></a></h2>
+    </div><!--cont_right-->
+<?php include 'footer.php'; ?>

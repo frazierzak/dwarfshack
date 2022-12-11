@@ -1,0 +1,3 @@
+ErrorDocument 404 /notfound.php
+DirectoryIndex index.php
+RedirectMatch 301 (.*)\.html$ http://dwarfshack.com$1.php

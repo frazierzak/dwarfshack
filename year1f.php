@@ -1,0 +1,13 @@
+<?php include 'header.php'; ?>
+        <div id="cont_left">
+            <h2 style="text-align: right; line-height: 0; text-align: left;"><a href="year1e.php"><strong><- Page 5</strong></a></h2>
+			<p><a href="images/suc_img/giantsnaaaaaailJPG_cz8zisw7t1.jpg"><img class="left" src="images/suc_img/giantsnaaaaaailJPG_cz8zisw7t1.jpg" /></a>Ack!! A giant Snail! Get inside woodcutters! The Giant Snail didn't attack, but he did get close to out wall and then oozed away south.</p><div class="clear"></div>
+			<p><a href="images/suc_img/farewelldwarfcaravanJPG_xao7obp2sl.jpg"><img class="left" src="images/suc_img/farewelldwarfcaravanJPG_xao7obp2sl.jpg" /></a>Farewell Caravan Dwarfs! Our fortunes rise and fall together.</p><div class="clear"></div><br/>
+			<p><a href="images/suc_img/kitchenareaJPG_cbawxaya5f.jpg"><img class="right" src="images/suc_img/kitchenareaJPG_cbawxaya5f.jpg" /></a>Here is the Kitchen I worked on in the winter and with stock piles. The top stock pile is for prepared food only, and no barrels are allowed in this. That way we can see at a glance how much prepared food we have and if we need to make more. The bottom is just the normal food stockpile with no prepared food allowed down there.</p>
+        </div><!--cont_left-->
+        <div id="cont_right">
+            <p><a href="images/suc_img/barracksJPG_d1ngbr5sd9.jpg"><img class="right" src="images/suc_img/barracksJPG_d1ngbr5sd9.jpg" /></a>I also worked on the barracks in the same place as the dorm and set up a small military for training. The squad is called The Imperial Turquoises! I like the sound of that. Led by the Militia Commander Gylis, there are only three total members, but the next overseer can do what they want with them. One of the members of the Turquoises has over 100 kills! (Before she arrived here of course.)</p>
+			<p><a href="images/suc_img/hamstermanJPG_op0375v5q1.jpg"><img class="right" src="images/suc_img/hamstermanJPG_op0375v5q1.jpg" /></a>Now I've seen everything! A roaming pack of Hamster-men! They are big, but very weak. But even still I'm not going to mess with them. I've never seen so much weird things in this land we settled in. Spring cannot come here soon enough...</p><div class="clear"></div><br/>
+			<h2 style="padding: 0; margin: 0; text-align: right; line-height: 0;"><a href="year1g.php"><strong>Page 7 -></strong></a></h2>
+        </div><!--cont_right-->
+<?php include 'footer.php'; ?>

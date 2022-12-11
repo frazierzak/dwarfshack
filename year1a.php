@@ -1,0 +1,14 @@
+<?php include 'header.php'; ?>
+        <div id="cont_left">
+            <h1 style="text-align: center;">Year 1</h1>
+			<h2 style="text-align: center;">Ruler: <a href="http://chattyprofil.es/p/DM7">DM7</a></h2>
+            <h3 style="text-align: center;">From the Journal of Dee-Em VII</h3>
+            <p><strong>Day 1, Spring of the Year 251</strong></p>
+			<p><span style="font-family: 'Glass Antiqua', cursive; font-size: 48px;">A</span>fter much deliberation among the elders and grey beards of the Mountain-Homes, it was determined that I, Dee-Em VII would lead this expedition into uncharted lands and set up the fortress/outpost known as Zimoltar! But if any humans are reading this journal you might know it as CrestedGilt! Let it be known that I have made many a fortress in other areas of the world and even more so almost all of them survived the first year! It's quite the talent I have, setting up new fortresses and then abandoning them for other lands, but this time it will be different! I'm here for the long haul! I have no doubt in my mind and I can say with 99.999999% confidence that the fortress I build here will last a long, long time, with no serious dangers or troubles for hundreds of years! The mason dwarfs might even carve my likeness in stone someday, wouldn't that be something?</p>
+        </div><!--cont_left-->
+        <div id="cont_right">
+            <p><a href="images/suc_img/wagonpictureJPG_patfd98xe9.jpg" title=""><img class="right" src="images/suc_img/wagonpictureJPG_patfd98xe9.jpg"/></a>Well here it is! The spot where we decided to embark and begin our new lives. It was sad to say good bye to the Mountain-Homes but on to bigger and better things I say! The land looks pretty tame compared to some other places I've been to, but we still need to be cautious. We are located in a valley between two high mountains that is carved in two from a nice river full of carp, sturgeon and sea lampreys! The guide said something about wild dingo-men but I don't believe any of it, I only know of one enemy for sure, and they are green skin little pukes called goblins. Nothing bad spotted as of yet so our surroundings should offer us pretty good protection from the wilds and elements, but if you notice...</p>
+			<p><a href="images/suc_img/northJPG_x67ku2n6oq.jpg"><img class="right" src="images/suc_img/northJPG_x67ku2n6oq.jpg"/></a>To the north of fort entrance you'll see nothing except grass and boulders, no trees! What's up with that? The woodcutter Gylis was holding the map when we were on the move so I blame him! But it's not all bad, as the dwarf satellite picture shows, there is a beehive and some bumblebees floating around there so if someone wants to make honey, there's the first step!</p>
+			<h2 style="padding: 0; margin: 0; text-align: right; line-height: 0;"><a href="year1b.php"><strong>Page 2 -></strong></a></h2>
+        </div><!--cont_right-->
+<?php include 'footer.php'; ?>
